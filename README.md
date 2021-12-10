@@ -7,4 +7,4 @@ Linux下Qt中使用Google Breakpad捕获程序崩溃异常
 ```cpp
 #include "client/linux/handler/exception_handler.h"
 ```
-具体教程可参考博文：[Linux下Google Breakpad捕获程序崩溃异常](http://lkevin98.gitee.io/blog/posts/7a4867a0.html)
+具体教程可参考博文：[Linux下Google Breakpad捕获程序崩溃异常](https://kevinl98.github.io/posts/7a4867a0.html)
